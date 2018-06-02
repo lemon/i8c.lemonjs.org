@@ -1,0 +1,13 @@
+{
+  "name": "ic8.lemonjs.org",
+  "description": "website for icons8 (cotton) lemon library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemon/i8c.lemonjs.org"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lemonjs-i8c": "^1.2.2",
+    "lemonjs-lui": "file:../../lemonjs-lui"
+  }
+}
